@@ -1,0 +1,44 @@
+.menu{background-color:#add8e6;
+    display:flex;       
+   justify-content: space-between;
+    padding: 25px;
+    margin:30px }
+
+
+.grid{background-color:#e2b3d8;
+      display:flex;
+      flex-wrap: wrap;
+      width:500;
+      height:500;
+      border:2;
+      margin: 30px;}
+
+
+.paper cranes{border-radius:20;
+              background-color: #dac5c5;
+              padding: 20px;
+              margin:30px}
+
+.paper hearts{border-radius:20;
+              background-color: #e75776;
+              padding: 20px;
+              margin:30px}
+
+.paper frog{border-radius:20;
+            background-color:#90ee90;
+            padding: 20px;
+            margin:30px}
+
+ *{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+a:link{color:palevioletred}
+a:visited{color:teal}
+.bodyimg{position:relative}
+.bodyimg p{position:absolute;top:70%; left:30%;opacity:0}
+.grid:hover img {opacity:0.5}
+body{margin: 0px;
+background-color:#f1eded}
+
+
+
+
